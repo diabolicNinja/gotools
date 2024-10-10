@@ -1,2 +1,2 @@
-# gotools
-golang based projects
+# urlcheck
+- basic short url check with whois info
